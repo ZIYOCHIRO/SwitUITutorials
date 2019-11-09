@@ -52,3 +52,8 @@ Toogle(isOn: $showFavoritesOnly) {
 3. `Observable` obejct is a custom object for your data that can be cound to a view from storage in SwiftUI's environment. SwiftUI subscribes to your observable object, and updates any views that need refreshing when the data changes.
 
 
+### Drawing Paths and Shapes
+1.
+2.
+3.
+
